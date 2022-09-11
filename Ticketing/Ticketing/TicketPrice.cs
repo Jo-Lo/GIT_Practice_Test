@@ -12,11 +12,11 @@ namespace Ticketing
         private bool discount;
         private decimal amountDue;
         private decimal mPrice;
-
-        const decimal mdecBalcony = 35.5m;
-        const decimal mdecGeneral = 28.75m;
-        const decimal mdecBox = 62.0m;
-        const decimal mdecDiscount = 5.0m; 
+        //changing ticket price
+        const decimal mdecBalcony = 36.5m; //old price 35.5m
+        const decimal mdecGeneral = 29.75m; //old price 28.75m
+        const decimal mdecBox = 63.0m; //old price 62.0m
+        const decimal mdecDiscount = 6.0m; //old price 5.0m
 
         private int Section
         {
