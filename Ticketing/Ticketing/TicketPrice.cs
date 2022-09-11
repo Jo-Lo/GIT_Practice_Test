@@ -16,7 +16,7 @@ namespace Ticketing
         const decimal mdecBalcony = 37.5m; //old price 36.5mm
         const decimal mdecGeneral = 30.75m; //old price 29.75m
         const decimal mdecBox = 64.0m; //old price 63.0m
-        const decimal mdecDiscount = 7.0m; //old price 6.0m
+        const decimal mdecDiscount = 10.0m; //old price 6.0m // changed to 10.0m
 
         private int Section
         {
